@@ -9,13 +9,6 @@ Pandas
 matplotlib
 scikit-learn
 
-You will also need to have software installed to run and execute an iPython Notebook
-
-We recommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
-
-#Code
-Code is provided in the capstone-project-code.ipynb notebook file. It uses the HR_comma_sep.csv dataset file. Code uses numpy, python, matplotlib and scikit learn libraries. Code uses classification technique of Supervised Learning to train the model. Code has implemented ADABoost Classifier, Gradient Descent Classifier, SVM and Stochastic gradient Descent to calculate performance based on the different methods of training using different techniques.
-
 #Data
 This data set contains total of 14999 rows and 10 columns. Target variable (left) is imbalance dataset. It contains 3751 records of employee who have left the company. 11428 records of employee who stayed in the company. Here we are trying to predict employee who can quit. Dataset has been extracted from Kaggle.
 
